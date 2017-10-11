@@ -1,1 +1,1 @@
-# tempConverter
+# Temperature Converter Web Service Client in IntelliJ
